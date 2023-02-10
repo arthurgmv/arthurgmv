@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div>
    <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="170px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" width="70px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" width="65px">
   <p> </p>
  </div>
  
