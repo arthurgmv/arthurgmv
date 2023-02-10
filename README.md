@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgmv&layout=compact)](https://github.com/arthurgmv/github-readme-stats)
 
 <div>
-   <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="100px">
+   <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="150px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" width="70px">
   <p> </p>
  </div>
