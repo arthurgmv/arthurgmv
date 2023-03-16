@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgmv&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgmv&layout=compact)](https://github.com/arthurgmv/github-readme-stats)
+<div>
+<a href="https://github.com/arthurgmv">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgmv&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div>
    <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="170px">
