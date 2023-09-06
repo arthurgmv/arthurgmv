@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-<a href="https://github.com/arthurgmv">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgmv&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://github.com/arthurgmv/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arthurgmv" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurgmv&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <div>
    <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="170px">
