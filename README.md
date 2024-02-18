@@ -38,8 +38,8 @@ Here are some ideas to get you started:
  
 <div>
   <p> I can speak: </p>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="50px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png" width="50"px>
-  <img src="https://user-images.githubusercontent.com/123274385/213891319-64a7ff29-b443-4dc0-87bb-bf7612e4fa94.png" width="50px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Japan_bordered.png" width="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="50px" height:"42px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png" width="50"px height:"42px">
+  <img src="https://user-images.githubusercontent.com/123274385/213891319-64a7ff29-b443-4dc0-87bb-bf7612e4fa94.png" width="50px" height:"42px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Japan_bordered.png" width="50px" height:"42px">
 </div>  
