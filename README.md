@@ -28,7 +28,9 @@ Here are some ideas to get you started:
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-1024.png" width="60px">
    <img src="https://viseux.net/portfolio/img/skills/bootstrap.png" width="65px">
    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-md.png" width="67px">
-  <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="170px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="58px">
+  <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" width="58px">
+  <!-- <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="170px"> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" width="65px">
   <img src="https://th.bing.com/th/id/R.adbac78231c9a2ff5c21aaa32dd4e1e4?rik=jWTUkOKwKIk7jg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2017%2f05%2fphp_emblem.png&ehk=gbX0plW%2fbqAeSR4cWmkL44R%2bUWxCpG3CL%2b2V4KHQlpQ%3d&risl=&pid=ImgRaw&r=0" height="60px" width="75px">
   <p> </p>
