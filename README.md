@@ -27,7 +27,7 @@ Here are some ideas to get you started:
         <img src="https://pluspng.com/img-png/react-logo-png-img-react-logo-png-react-js-logo-png-transparent-png-1142x1027.png" width="65px">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-1024.png" width="60px">
    <img src="https://viseux.net/portfolio/img/skills/bootstrap.png" width="65px">
-   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-md.png" width="67px">
+ <!--  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-md.png" width="67px"> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="58px">
   <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" width="58px">
   <!-- <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="170px"> -->
