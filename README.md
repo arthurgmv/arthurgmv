@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  </div>
  
 <div>
-  <p> I can speak: </p>  
+  <b><p> I can speak: </p></b>  
   <img src="https://th.bing.com/th/id/OIP.WJyay7b2ylktU2SXiIPc1gAAAA?rs=1&pid=ImgDetMain" width="50px" height="33px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png" width="50px" height="33px">
   <img src="https://upload.wikimedia.org/wikipedia/en/archive/9/9a/20160610210448!Flag_of_Spain.svg" width="50px" height="33px">
