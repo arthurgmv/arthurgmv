@@ -6,7 +6,6 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurgmv&layout=compact&langs_count=8&card_width=320" />
 </a>
-  
 <br><br>
 <div>
         <img src="https://pluspng.com/img-png/react-logo-png-img-react-logo-png-react-js-logo-png-transparent-png-1142x1027.png" width="65px">
