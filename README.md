@@ -1,6 +1,4 @@
 ### Hello guys, I'm Arthur!
-
-
 <div>
 <a href="https://github.com/arthurgmv/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arthurgmv" />
