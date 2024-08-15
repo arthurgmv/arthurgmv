@@ -18,8 +18,8 @@
   <img src="https://i0.wp.com/www.xamnation.com/wp-content/uploads/2019/12/Java_logo_icon.png?w=3600&ssl=1" width="140px" height="63px">
   <!-- <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="170px"> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" width="65px">
-  <img src="https://th.bing.com/th/id/OIP.no3xi9CWqFjCAOsO1JusngHaJ0?rs=1&pid=ImgDetMain" width="52px" height="60"px>
-  <img src="https://th.bing.com/th/id/R.adbac78231c9a2ff5c21aaa32dd4e1e4?rik=jWTUkOKwKIk7jg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2017%2f05%2fphp_emblem.png&ehk=gbX0plW%2fbqAeSR4cWmkL44R%2bUWxCpG3CL%2b2V4KHQlpQ%3d&risl=&pid=ImgRaw&r=0" height="60px" width="75px">
+<!--  <img src="https://th.bing.com/th/id/OIP.no3xi9CWqFjCAOsO1JusngHaJ0?rs=1&pid=ImgDetMain" width="52px" height="60"px> -->
+ <!-- <img src="https://th.bing.com/th/id/R.adbac78231c9a2ff5c21aaa32dd4e1e4?rik=jWTUkOKwKIk7jg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2017%2f05%2fphp_emblem.png&ehk=gbX0plW%2fbqAeSR4cWmkL44R%2bUWxCpG3CL%2b2V4KHQlpQ%3d&risl=&pid=ImgRaw&r=0" height="60px" width="75px"> -->
 
   <p> </p>
  </div>
