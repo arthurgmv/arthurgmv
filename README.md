@@ -1,13 +1,13 @@
 ### Hello guys, I'm Arthur!
 <div>
-  
+<!--  
 <a href="https://github.com/arthurgmv/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arthurgmv" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurgmv&hide=html,hack,shell,ren'py&layout=compact&langs_count=8&card_width=320" />
 </a>
-<br><br>
+<br><br> -->
 <div>
         <img src="https://pluspng.com/img-png/react-logo-png-img-react-logo-png-react-js-logo-png-transparent-png-1142x1027.png" width="65px">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-1024.png" width="60px">
