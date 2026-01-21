@@ -1,33 +1,43 @@
-### Hello guys, I'm Arthur!
-<div>
-<!--  
-<a href="https://github.com/arthurgmv/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arthurgmv" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurgmv&hide=html,hack,shell,ren'py&layout=compact&langs_count=8&card_width=320" />
-</a>
-<br><br> -->
-<div>
-        <img src="https://pluspng.com/img-png/react-logo-png-img-react-logo-png-react-js-logo-png-transparent-png-1142x1027.png" width="65px">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-1024.png" width="60px">
-  <!-- <img src="https://viseux.net/portfolio/img/skills/bootstrap.png" width="65px"> -->
- <!--  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-md.png" width="67px"> -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="59px">
-  <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" width="58px">
-  <img src="https://i0.wp.com/www.xamnation.com/wp-content/uploads/2019/12/Java_logo_icon.png?w=3600&ssl=1" width="140px" height="63px">
-  <!-- <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" width="170px"> -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" width="65px">
-<!--  <img src="https://th.bing.com/th/id/OIP.no3xi9CWqFjCAOsO1JusngHaJ0?rs=1&pid=ImgDetMain" width="52px" height="60"px> -->
- <!-- <img src="https://th.bing.com/th/id/R.adbac78231c9a2ff5c21aaa32dd4e1e4?rik=jWTUkOKwKIk7jg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2017%2f05%2fphp_emblem.png&ehk=gbX0plW%2fbqAeSR4cWmkL44R%2bUWxCpG3CL%2b2V4KHQlpQ%3d&risl=&pid=ImgRaw&r=0" height="60px" width="75px"> -->
+### Hello guys, I'm Arthur! 👋
 
-  <p> </p>
- </div>
- 
-<div>
-  <b><p> I can speak: </p></b>  
-  <img src="https://th.bing.com/th/id/OIP.WJyay7b2ylktU2SXiIPc1gAAAA?rs=1&pid=ImgDetMain" width="50px" height="33px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png" width="50px" height="33px">
-  <img src="https://upload.wikimedia.org/wikipedia/en/archive/9/9a/20160610210448!Flag_of_Spain.svg" width="50px" height="33px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Japan_bordered.png" width="50px" height="33px">
-</div>  
+<div align="center">
+  <a href="https://github.com/arthurgmv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgmv&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🚀 Data Engineering & Big Data</h3>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white">
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🛠️ Full Stack Background</h3>
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🌍 I can speak</h3>
+  <img src="https://flagcdn.com/40x30/us.png" alt="English" title="English">
+  <img src="https://flagcdn.com/40x30/br.png" alt="Português" title="Português">
+  <img src="https://flagcdn.com/40x30/es.png" alt="Español" title="Español">
+  <img src="https://flagcdn.com/40x30/jp.png" alt="Japanese" title="Japanese">
+</div>
