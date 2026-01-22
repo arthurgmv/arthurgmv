@@ -36,8 +36,8 @@
 
 <div align="center">
   <h3>🌍 I can speak</h3>
-  <img src="https://flagcdn.com/40x30/us.png" alt="English" title="English">
   <img src="https://flagcdn.com/40x30/br.png" alt="Português" title="Português">
-  <img src="https://flagcdn.com/40x30/es.png" alt="Español" title="Español">
+  <img src="https://flagcdn.com/40x30/us.png" alt="English" title="English">
   <img src="https://flagcdn.com/40x30/jp.png" alt="Japanese" title="Japanese">
+  <img src="https://flagcdn.com/40x30/es.png" alt="Español" title="Español">
 </div>
