@@ -9,8 +9,36 @@
 <br>
 
 <div align="center">
-  <h3>🚀 Data Engineering & Big Data</h3>
   
+  <p align="center">
+    I hold a degree in <b>Systems Analysis and Development</b> and began my tech journey in 2023. My background includes working as a <b>Full Stack Developer</b> at a CRM startup. Currently, I work at <b>Banco Santander</b> in Data Analysis & BI for the Credit Risk sector, handling Big Data workloads (batch & streaming). I am actively transitioning and specializing in <b>Data Engineering</b>.
+  </p>
+
+  <details>
+    <summary><b>🇧🇷 Ler biografia em Português</b></summary>
+    <br>
+    Sou formado em <b>Análise e Desenvolvimento de Sistemas</b> e iniciei minha jornada tecnológica em 2023. Atuei como Desenvolvedor Full Stack em uma startup de CRM e atualmente trabalho no <b>Banco Santander</b>. Lá, atuo com Análise de Dados e BI para o setor de Risco de Crédito, processando <b>Big Data</b> em batch e streaming. Meu foco atual é me aperfeiçoar em Engenharia de Dados.
+  </details>
+
+  <details>
+    <summary><b>🇪🇸 Leer biografía en Español</b></summary>
+    <br>
+    Soy graduado en <b>Análisis y Desarrollo de Sistemas</b> e inicié mi carrera tecnológica en 2023. Trabajé como Desarrollador Full Stack en una startup de CRM y actualmente me desempeño en el <b>Banco Santander</b>. Allí trabajo con Análisis de Datos y BI para el sector de Riesgo de Crédito, manejando Big Data en batch y streaming. Mi enfoque actual está en especializarme en <b>Ingeniería de Datos</b>.
+  </details>
+
+  <details>
+    <summary><b>🇯🇵 日本語でプロフィールを読む</b></summary>
+    <br>
+    <b>システム分析と開発</b>の学位を持ち、2023年にITキャリアをスタートさせました。CRMスタートアップでのフルスタック開発を経て、現在は<b>サンタンデール銀行</b>（Banco Santander）にて勤務しています。そこでは信用リスク部門のデータ分析とBIを担当し、バッチ処理やストリーミング処理を用いたビッグデータを扱っています。現在は<b>データエンジニアリング</b>とビッグデータ技術の専門性を高めることに注力しています。
+  </details>
+
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🚀 Data Engineering & Big Data</h3>
+   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
@@ -24,7 +52,7 @@
 
 <div align="center">
   <h3>🛠️ Full Stack Background</h3>
-  
+   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
