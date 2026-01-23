@@ -11,7 +11,7 @@
 <div align="center">
   
   <p align="center">
-    I hold a degree in <b>Systems Analysis and Development</b> and began my tech journey in 2023. My background includes working as a <b>Full Stack Developer</b> at a CRM startup. Currently, I work at <b>Banco Santander</b> in Data Analysis & BI for the Credit Risk sector, handling Big Data workloads (batch & streaming). I am actively specializing in <b>Data Engineering</b>.
+    I hold a degree in <b>Systems Analysis and Development</b> and began my tech journey in 2023. My background includes working as a <b>Full Stack Developer</b> at a CRM startup. Currently, I work at <b>Banco Santander</b> in Data Analysis & BI for the Credit Risk sector, handling Big Data workloads (batch & streaming). I am currently specializing in <b>Data Engineering</b>.
   </p>
 
   <details>
