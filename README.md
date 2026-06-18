@@ -17,19 +17,19 @@
   <details>
     <summary><b>🇧🇷 Ler biografia em Português</b></summary>
     <br>
-    Sou formado em <b>Análise e Desenvolvimento de Sistemas</b> e iniciei minha jornada tecnológica em 2023. Atuei como Desenvolvedor Full Stack em uma startup de CRM e atualmente trabalho no <b>Banco Santander</b>. Lá, atuo com Análise de Dados e BI para o setor de Risco de Crédito, processando <b>Big Data</b> em batch e streaming. Meu foco atual é me aperfeiçoar em <b>Engenharia de Dados e Arquiteturas Lakehouse</b>.
+    Sou formado em <b>Análise e Desenvolvimento de Sistemas</b> e iniciei minha jornada tecnológica em 2023. Atuei como Desenvolvedor Full Stack em uma startup de CRM e atualmente trabalho no <b>Banco Santander</b>. Lá, atuo com Análise de Dados e BI para o setor de Risco de Crédito, processando <b>Big Data</b> em batch e streaming. Meu foco atual é me aperfeiçoar em <b>Ciência de Dados e Big Data</b>.
   </details>
 
   <details>
     <summary><b>🇪🇸 Leer biografía en Español</b></summary>
     <br>
-    Soy graduado en <b>Análisis y Desarrollo de Sistemas</b> e inicié mi carrera tecnológica en 2023. Trabajé como Desarrollador Full Stack en una startup de CRM y actualmente me desempeño en el <b>Banco Santander</b>. Allí trabajo con Análisis de Datos y BI para el sector de Riesgo de Crédito, manejando <b>Big Data</b> en batch y streaming. Mi enfoque actual está en especializarme en <b>Ingeniería de Datos y Arquitecturas Lakehouse</b>.
+    Soy graduado en <b>Análisis y Desarrollo de Sistemas</b> e inicié mi carrera tecnológica en 2023. Trabajé como Desarrollador Full Stack en una startup de CRM y actualmente me desempeño en el <b>Banco Santander</b>. Allí trabajo con Análisis de Datos y BI para el sector de Riesgo de Crédito, manejando <b>Big Data</b> en batch y streaming. Mi enfoque actual está en especializarme en <b>ciencia de datos y big data</b>.
   </details>
 
   <details>
     <summary><b>🇯🇵 日本語でプロフィールを読む</b></summary>
     <br>
-    <b>システム分析と開発</b>の学位を持ち、2023年にITキャリアをスタートさせました。CRMスタートアップでのフルスタック開発を経て、現在は<b>サンタンデール銀行</b>（Banco Santander）にて勤務しています。そこでは信用リスク部門のデータ分析とBIを担当し、バッチ処理やストリーミング処理を用いた<b>ビッグデータ</b>を扱っています。現在は<b>データエンジニアリング</b>と<b>レイクハウス・アーキテクチャ</b>の専門性を高めることに注力しています。
+    <b>システム分析と開発</b>の学位を持ち、2023年にITキャリアをスタートさせました。CRMスタートアップでのフルスタック開発を経て、現在は<b>サンタンデール銀行</b>（Banco Santander）にて勤務しています。そこでは信用リスク部門のデータ分析とBIを担当し、バッチ処理やストリーミング処理を用いた<b>ビッグデータ</b>を扱っています。現在は<b>データサイエンス</b>と<b>ビッグデータ</b>の専門性を高めることに注力しています。
   </details>
 
 </div>
